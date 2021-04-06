@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15807728241",
+    "project_id": "whatsapploginsinup",
+    "storage_bucket": "whatsapploginsinup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15807728241:android:17771bf58d328fea1669d0",
+        "android_client_info": {
+          "package_name": "com.example.whatsapploginsinup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15807728241-gtm24jfin37bnkp8r17mhqt3rnunho4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUHgHGh0qZm4qEVQDRxSQpaYjkLfrYIZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15807728241-gtm24jfin37bnkp8r17mhqt3rnunho4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
